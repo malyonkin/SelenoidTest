@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+/allure-results/
+/build/
+/.allure/
+SelenoidTest.iml
